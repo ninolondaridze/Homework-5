@@ -1,0 +1,21 @@
+header, footer {
+    background-color: #0000ff;
+    color: white;
+    border: 10px solid rgb(9, 9, 119);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 900px;
+}
+
+main {
+    background-color: yellow;
+    color: rgb(37, 36, 36);
+    border: 40px solid rgb(140, 140, 17);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 700px;
+}
